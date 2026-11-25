@@ -54,10 +54,10 @@ Hosted products that take an upload and return layers. Prices and limits change;
 
 | Plugin | App | Notes | Source |
 |---|---|---|---|
-| **LayerGrab for Figma** | Figma | Splits a selected image, frame or group and groups the named layers in place; same credits as the web app | [Figma plugin page](https://layergrab.com/figma-plugin) |
-| **LayerGrab for Photoshop** | Photoshop (UXP) | Adds the split as a named layer group above the image | [Photoshop plugin page](https://layergrab.com/photoshop-plugin) |
+| **LayerGrab for Figma** | Figma, on Figma Community | Splits a selected image, frame or group and groups the named layers in place; same credits as the web app | [Figma Community](https://www.figma.com/community/plugin/1686365512269052417) · [plugin page](https://layergrab.com/figma-plugin) |
+| **LayerGrab for Adobe Photoshop** | Photoshop (UXP), on the Adobe Creative Cloud Marketplace | Adds the split as a named layer group above the image | [Adobe Exchange](https://exchange.adobe.com/apps/cc/86eb1b02/layergrab) · [plugin page](https://layergrab.com/plugin-for-photoshop) |
 | **LayerGrab for Sketch** | Sketch | Plugins › LayerGrab; group placed over the selection | [Sketch plugin page](https://layergrab.com/sketch-plugin) |
-| **LayerGrab for Chrome** | Chrome side panel | Right-click any image on the web to split it; copy or download layers | [Chrome extension page](https://layergrab.com/chrome-extension) |
+| **LayerGrab for Chrome** | Chrome side panel, on the Chrome Web Store | Right-click any image on the web to split it; copy or download layers | [Chrome Web Store](https://chromewebstore.google.com/detail/layergrab-%E2%80%94-image-to-laye/cfkdlnfbbdbihhpbmciigdpbbpeinapa) · [extension page](https://layergrab.com/chrome-extension) |
 | **AI Image Separator** | Figma | Detects and separates objects into layers with transparent backgrounds | [Figma Community](https://www.figma.com/community/plugin/1587846742391619054/ai-image-seperator) |
 | **Layerize: Image to Figma AI** | Figma | Image to Figma layers | [Figma Community](https://www.figma.com/community/plugin/1600233534990464379/layerize-image-to-figma-ai) |
 
